@@ -1,0 +1,88 @@
+0 Apple black rot
+1 Apple healthy
+2 Apple rust
+3 Apple scab
+4 Cassava bacterial blight
+5 Cassava brown streak disease
+6 Cassava green mottle
+7 Cassava healthy
+8 Cassava mosaic disease
+9 Cherry healthy
+10 Cherry powdery mildew
+11 Chili healthy
+12 Chili leaf curl
+13 Chili leaf spot
+14 Chili whitefly
+15 Chili yellowish
+16 Coffee cercospora leaf spot
+17 Coffee healthy
+18 Coffee red spider mite
+19 Coffee rust
+20 Corn common rust
+21 Corn gray leaf spot
+22 Corn healthy
+23 Corn northern leaf blight
+24 Cucumber diseased
+25 Cucumber healthy
+26 Gauva diseased
+27 Gauva healthy
+28 Grape black measles
+29 Grape black rot
+30 Grape healthy
+31 Grape leaf blight (isariopsis leaf spot)
+32 Jamun diseased
+33 Jamun healthy
+34 Lemon diseased
+35 Lemon healthy
+36 Mango diseased
+37 Mango healthy
+38 Peach bacterial spot
+39 Peach healthy
+40 Pepper bell bacterial spot
+41 Pepper bell healthy
+42 Pomegranate diseased
+43 Pomegranate healthy
+44 Potato early blight
+45 Potato healthy
+46 Potato late blight
+47 Rice brown spot
+48 Rice healthy
+49 Rice hispa
+50 Rice leaf blast
+51 Rice neck blast
+52 Soybean bacterial blight
+53 Soybean caterpillar
+54 Soybean diabrotica speciosa
+55 Soybean downy mildew
+56 Soybean healthy
+57 Soybean mosaic virus
+58 Soybean powdery mildew
+59 Soybean rust
+60 Soybean southern blight
+61 Strawberry leaf scorch
+62 Strawberry healthy
+63 Sugarcane bacterial blight
+64 Sugarcane healthy
+65 Sugarcane red rot
+66 Sugarcane red stripe
+67 Sugarcane rust
+68 Tea algal leaf
+69 Tea anthracnose
+70 Tea bird eye spot
+71 Tea brown blight
+72 Tea healthy
+73 Tea red leaf spot
+74 Tomato bacterial spot
+75 Tomato early blight
+76 Tomato healthy
+77 Tomato late blight
+78 Tomato leaf mold
+79 Tomato mosaic virus
+80 Tomato septoria leaf spot
+81 Tomato spider mites (two spotted spider mite)
+82 Tomato target spot
+83 Tomato yellow leaf curl virus
+84 Wheat brown rust
+85 Wheat healthy
+86 Wheat septoria
+87 Wheat yellow rust

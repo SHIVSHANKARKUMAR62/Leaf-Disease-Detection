@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "fir-fb692",
+  "private_key_id": "07c780300cfd9bd34ed0c7bb34f813ca8dfc9fad",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDAHzAhWMvmFw1p\n/eOVlTP5QvqE5NO5tk+lEIfiAudiWeq+z42VGFxZWmpyVq1iUu1Xwv126/TgyWxW\n+mnegRBiG7Y6vnn7MZj4ctzcVmsFuL5aswV4EPCgjd10Np+XfUwEFUTCCKmJEH22\n3KvKcGTPY7vA/O5JAmyUiz8sCgahbw/6UfzJOTcVSc7Iv5mTiLrB9mea23mLi47E\nFB8GbIaO6i+pBxIPK4GIycBHS1chM+8bJulNXtQZVQxJNMCwC3+d2qftOrQ7crOM\n+6C3DFb6BLcuySzqiwfqUPdgXxED5kL/9EX7oNxvTnjjwsbpvVWvXM55rG9ivE0a\nBGJ7jv5vAgMBAAECggEANZi9yZ/HCkKGGHqewf0kybX4w5g+xMFqiKcK8W9T86kY\nBvFKEzz/jmHd7lXl+tcdpW0dXs7GuusWUVF8tXkWA/itJsg6qWwVu8H3gXSOWMNI\nP29P6EX5iyDoleIjNZTb3wu76dGW0kkKeTgoqMogJYcyOs2VAEMv3WTXU8bcQK6K\nZljYPk8niDyp2Er65DwvYAFhpkXxQbvV28g4fbBdMaQtnxkVueVev4KhG25WDNtR\naszptBAx32qrPJBaCfCcoTd0XZJAK57g3vZQg0fZEpPl+sTSzNXKSkmEw3VInnNj\n0oN1t7XqGKkG4XIZXwAzkAwvbDvZVwTJkWS5bxDDoQKBgQDi1ydsSSLoxDAGu2jC\ngFdvYIyivSY1z4vQgVKBpjfXsLKwBkert6UYCRcsgaRamqfbLJAy8nvO1rPs8eCL\nwUDay1Fc/9KCjRQcLMO9bL6YU441BQO+79jf024XY8ygaP9vnzZAKiI5TJUag09p\n4wkIkQy5sywRZxVGg5+/zt6s/wKBgQDY0YRIEMBD74860FITrEa1hxFy3+0VXTCL\n0Q7uLt1Pzs8t7gNP8+1KVPU7hCFfMg2w9rD5IZsQlFLs+O7EbAfzckyAYw7O9EuR\n0bsGUKtp51lVldBioN1Eah4E3lAY0NZpU9eoRJ/6mTxoEtZf6MKE+7QFerC8fCI8\nXe7BHjb+kQKBgQCHPsRQeaKIqUABI4eoP6Dh1OzEsoWvm5i+rfwlNJci0EUZUgU1\nSn7yP6lDbeAx7PebY4xt88kBX11TLjs01/n0+Tf/fL9j+v08dywVKlrQszCcR+sd\n0h66BHMlGumL0k5JnOFZjEVvaEuVzShx910RcHnn1f22OoGi0yNR1uNIvQKBgAKw\njrCKLKhrF17GaM4/q9zioQ/IwVsrfceuPz4rLKmpyh4qvrXGM+JhLW2glP1mVI8m\ncEmW5iKNhH3WFLgxEuQtPc+16uAcXbegX26Tn5y/tvb91cjzb+tCWb77twinxpEl\n7h3zQ/zK29n6qdgkvg0CRlhvDjQ4YgBXtfeFVW9RAoGAcotRRaC/rFppJlUdOoey\nSsBZtU1Y0kYFjrBKdTrybYdAiEjbU7A/WaTD9NNvjwzF+AOwkJ7HifoA6VP/ZLfE\nmm1uHtUOO/uOjzaEslbVUP59hHyqTIncIdK5KShm+KWzoMYiU67CcpNX6h9uUvjN\nFoA9fCiMXEXfystbvfMDLjU=\n-----END PRIVATE KEY-----\n",
+  "client_email": "cropplant@fir-fb692.iam.gserviceaccount.com",
+  "client_id": "114880572559493590624",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cropplant%40fir-fb692.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
